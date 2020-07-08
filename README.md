@@ -1,0 +1,1 @@
+# codewars---Total-amount-of-points
